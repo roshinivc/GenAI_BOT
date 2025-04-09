@@ -89,3 +89,7 @@ NutritionBOT is more than just a chatbot—it’s a bridge between tradition and
 
 
 
+
+
+Note: Used AI app to generate readmefile from code
+
